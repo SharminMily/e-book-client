@@ -1,0 +1,214 @@
+[
+    {
+      "id": 1,
+      "category": "motivationBook",
+      "bookName": "The 7 Habits of Highly Effective People",
+      "image": "https://i.ibb.co/p3ksCZS/photo-1544210163-257effe9399e-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces-edg.jpg",
+      "title": "The 7 Habits of Highly Effective People",
+      "price": 15.99,
+      "details": "This book provides a holistic approach to personal and professional effectiveness.",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "category": "motivationBook",
+      "bookName": "Atomic Habits",
+      "image": "https://i.ibb.co/G57mvdF/photo-1621351183012-e2f9972dd9bf-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg",
+      "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+      "price": 12.49,
+      "details": "Discover the secrets to building good habits and breaking bad ones.",
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "category": "gamesBook",
+      "bookName": "The Legend of Zelda: Hyrule Historia",
+      "image": "https://i.ibb.co/PYyF98T/photo-1666888740974-3e31589c16b7-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg",
+      "title": "The Legend of Zelda: Hyrule Historia",
+      "price": 29.99,
+      "details": "Explore the history of the beloved Legend of Zelda series with this comprehensive book.",
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "category": "gamesBook",
+      "bookName": "Super Mario Encyclopedia: The Official Guide to the First 30 Years",
+      "image": "https://i.ibb.co/3c8d6tZ/photo-1484820540004-14229fe36ca4-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg",
+      "title": "Super Mario Encyclopedia: The Official Guide to the First 30 Years",
+      "price": 24.99,
+      "details": "Relive the history of Super Mario with this comprehensive guide.",
+      "rating": 4.6
+    },
+    {
+      "id": 5,
+      "category": "cartoonBook",
+      "bookName": "The Art of Pixar",
+      "image": "https://i.ibb.co/h7fbtQ7/photo-1486421728445-c460298b20b6-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg",
+      "title": "The Art of Pixar: 25th Anniversary",
+      "price": 39.99,
+      "details": "Delve into the beautiful artwork behind Pixar's iconic animated films.",
+      "rating": 4.9
+    },
+    {
+      "id": 6,
+      "category": "cartoonBook",
+      "bookName": "The Art of Walt Disney",
+      "image": "https://i.ibb.co/GcZdhRJ/photo-1531501410720-c8d437636169-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg",
+      "title": "The Art of Walt Disney: From Mickey Mouse to the Magic Kingdoms",
+      "price": 49.99,
+      "details": "Discover the magic behind Walt Disney's legendary creations.",
+      "rating": 4.8
+    },
+    {
+      "id": 7,
+      "category": "islamicBook",
+      "bookName": "The Quran",
+      "image": "https://i.ibb.co/Jzg39Mc/photo-1596125160970-6f02eeba00d3-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg",
+      "title": "The Quran",
+      "price": 9.99,
+      "details": "The holy book of Islam, providing guidance for all aspects of life.",
+      "rating": 4.9
+    },
+    {
+      "id": 8,
+      "category": "islamicBook",
+      "bookName": "The Sealed Nectar",
+      "image": "https://i.ibb.co/LnB0nG4/premium-photo-1679671812163-63ed56edaa62-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-cro.jpg",
+      "title": "The Sealed Nectar: Biography of the Noble Prophet",
+      "price": 14.99,
+      "details": "A comprehensive biography of the Prophet Muhammad (peace be upon him).",
+      "rating": 4.7
+    },
+    {
+      "id": 9,
+      "category": "storyBook",
+      "bookName": "Harry Potter and the Sorcerer's Stone",
+      "image": "https://i.ibb.co/zZNQpzt/photo-1592419309827-96e9508717e0-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "price": 11.99,
+      "details": "The first book in the beloved Harry Potter series.",
+      "rating": 4.8
+    },
+    {
+      "id": 10,
+      "category": "storyBook",
+      "bookName": "The Hobbit",
+      "image": "https://i.ibb.co/9HjdCR1/photo-1549737221-bef65e2604a6-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces-edg.jpg",
+      "title": "The Hobbit",
+      "price": 10.49,
+      "details": "Join Bilbo Baggins on his epic journey through Middle-earth.",
+      "rating": 4.6
+    },
+    {
+      "id": 11,
+      "category": "otherBook",
+      "bookName": "Sapiens: A Brief History of Humankind",
+      "image": "https://i.ibb.co/GMMW7dN/photo-1611676279444-5577698aa13c-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg",
+      "title": "Sapiens: A Brief History of Humankind",
+      "price": 13.99,
+      "details": "Explore the history of Homo sapiens and the rise of human civilization.",
+      "rating": 4.7
+    },
+    {
+      "id": 12,
+      "category": "otherBook",
+      "bookName": "Educated",
+      "image": "https://i.ibb.co/TRV9z8h/photo-1610466025839-ec6040c347b6-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg",
+      "title": "Educated: A Memoir",
+      "price": 16.49,
+      "details": "A powerful memoir about the author's journey from a survivalist family to Harvard University.",
+      "rating": 4.8
+    },
+    {
+      "id": 13,
+      "category": "motivationBook",
+      "bookName": "Think and Grow Rich",
+      "image": "https://i.ibb.co/Gx2z30g/photo-1485125457414-5f3aa5b0d208-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg",
+      "title": "Think and Grow Rich",
+      "price": 8.99,
+      "details": "Unlock the secrets to success and wealth with this classic self-help book.",
+      "rating": 4.6
+    },
+    {
+      "id": 14,
+      "category": "gamesBook",
+      "bookName": "Ready Player One",
+      "image": "https://i.ibb.co/vdtR9rR/photo-1504151932400-72d4384f04b3-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg",
+      "title": "Ready Player One",
+      "price": 14.99,
+      "details": "Immerse yourself in the virtual reality world of the OASIS in this thrilling adventure novel.",
+      "rating": 4.7
+    }, 
+    {
+      "id": 15,
+      "category": "motivationBook",
+      "bookName": "The Subtle Art of Not Giving a F*ck",
+      "image": "https://i.ibb.co/pzLsnZ8/photo-1512153472310-d72327c26cf0-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg",
+      "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+      "price": 11.99,
+      "details": "Learn how to prioritize your values and stop sweating the small stuff.",
+      "rating": 4.4
+    },
+    {
+      "id": 16,
+      "category": "cartoonBook",
+      "bookName": "The Art of How to Train Your Dragon",
+      "image": "https://i.ibb.co/zZdZ8kQ/photo-1503676260728-1c00da094a0b-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg",
+      "title": "The Art of How to Train Your Dragon: The Hidden World",
+      "price": 35.99,
+      "details": "Discover the stunning visuals behind the beloved How to Train Your Dragon series.",
+      "rating": 4.8
+    },
+    {
+      "id": 17,
+      "category": "islamicBook",
+      "bookName": "The Autobiography of Malcolm X",
+      "image": "https://i.ibb.co/rHpQD86/photo-1511268786328-fbf79bdb5592-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg",
+      "title": "The Autobiography of Malcolm X",
+      "price": 13.49,
+      "details": "Explore the life of civil rights activist Malcolm X in his own words.",
+      "rating": 4.7
+    },
+    {
+      "id": 18,
+      "category": "storyBook",
+      "bookName": "To Kill a Mockingbird",
+      "image": "https://i.ibb.co/G57mvdF/photo-1621351183012-e2f9972dd9bf-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg",
+      "title": "To Kill a Mockingbird",
+      "price": 9.99,
+      "details": "A timeless classic about racial injustice and moral growth in the American South.",
+      "rating": 4.9
+    },
+    {
+      "id": 19,
+      "category": "otherBook",
+      "bookName": "The Power of Habit",
+      "image": "https://i.ibb.co/Q9nd5qc/photo-1613575363165-5a67fadc017c-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg",
+      "title": "The Power of Habit: Why We Do What We Do in Life and Business",
+      "price": 14.99,
+      "details": "Understand the science behind habits and learn how to change them.",
+      "rating": 4.6
+    },
+    {
+      "id": 20,
+      "category": "motivationBook",
+      "bookName": "Girl, Wash Your Face",
+      "image": "https://i.ibb.co/tZGYrBJ/photo-1552529220-460eec1fd555-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces-edg.jpg",
+      "title": "Girl, Wash Your Face: Stop Believing the Lies About Who You Are So You Can Become Who You Were Meant to Be",
+      "price": 10.49,
+      "details": "Challenge the lies you've been told about yourself and embrace your true potential.",
+      "rating": 4.5
+    },
+    {
+      "id": 21,
+      "category": "gamesBook",
+      "bookName": "Minecraft: The Official Beginner's Handbook",
+      "image": "https://i.ibb.co/6H9YrHP/photo-1656787346248-36bb5ed8f9e5-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg",
+      "title": "Minecraft: The Official Beginner's Handbook",
+      "price": 8.99,
+      "details": "Get started with Minecraft and learn the basics of survival and crafting.",
+      "rating": 4.7
+    }    
+      
+  ]
+  
