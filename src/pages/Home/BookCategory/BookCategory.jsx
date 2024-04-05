@@ -1,43 +1,61 @@
-import {Input} from "@nextui-org/react";
-// import {SearchIcon} from "./SearchIcon";
+/* eslint-disable no-unused-vars */
+/* eslint-disable react/prop-types */
+import {  
+  Card,
+  CardHeader,
+  CardFooter,
+  Image,
+  Button,
+} from "@nextui-org/react";
+import { Link } from "react-router-dom";
 
-const BookCategory = () => {
-    return (
-        <div className="mt-20 flex justify-center">
-            
-      <Input
-      className="w-96 mb-20 "
-        label=""
-        isClearable
-        radius="lg"
-        classNames={{
-          label: "text-black/10 dark:text-white/90",
-          input: [
-            "bg-transparent",
-            "text-black/90 dark:text-white/90",
-            "placeholder:text-default-700/50 dark:placeholder:text-white/60",
-          ],
-          innerWrapper: "bg-transparent",
-          inputWrapper: [
-            "border",
-            "border-gray-400",
-            "shadow-xl",
-            "bg-default-200/50",
-            "dark:bg-default/60",
-            "backdrop-blur-xl",
-            "backdrop-saturate-200",
-            "hover:bg-default-200/70",
-            "dark:hover:bg-default/70",
-            "group-data-[focused=true]:bg-default-200/50",
-            "dark:group-data-[focused=true]:bg-default/60",
-            "!cursor-text",
-          ],
-        }}
-        placeholder="Type to search..."        
-      />
-    {/* </div> */}
-        </div>
-    );
+const BookCategory = ({item}) => {
+  const {_id, image, category, title} = item;
+  console.log(item)
+  return (
+      <div className="py-2">
+            {/* <Card
+        isFooterBlurred
+        className="w-full h-[300px] col-span-12 sm:col-span-7"
+      >
+        <CardHeader className="absolute z-10 top-1 flex-col items-start">
+          <p className="text-tiny text-white/60 uppercase font-bold">
+            Your day your way
+          </p>
+       
+        </CardHeader>
+       
+        <Image
+          removeWrapper
+          alt="Relaxing app background"
+          className="z-0 w-full h-full "
+          src={image}
+        />
+        <CardFooter className="absolute bg-black/40 bottom-0 z-10 border-t-1 border-default-600 dark:border-default-100">
+          <div className="flex flex-grow gap-1 items-center">
+            <Image
+              alt="Breathing app icon"
+              className="rounded-full w-10 h-11 bg-black"
+              src="/images/breathing-app-icon.jpeg"
+            />
+            <div className="flex flex-col">
+              <p className="text-tiny text-white/90 font-semibold">{category}</p>
+              <p className="text-tiny text-white/80">
+               {title}
+              </p>
+            </div>
+          </div>
+         <Link to={`/bookDetails/${_id}`}>
+         <Button radius="full" size="sm">
+           About
+          </Button>
+         </Link>
+        
+        </CardFooter>
+      </Card> */}
+      </div>
+  );
 };
 
 export default BookCategory;
+// export default BookCategory;

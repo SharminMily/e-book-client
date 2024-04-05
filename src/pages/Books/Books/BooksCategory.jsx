@@ -7,11 +7,12 @@ const BooksCategory = ({items}) => {
         <div>
             
         <div className="">
-          <div className="w-full md:grid grid-cols-2 gap-8 md:px-8">
+          <div className="w-full grid lg:grid-cols-3 md:grid-cols-2 gap-8 md:px-8">
           {
-                 items.map(item => <BooksCard key={item._id} item={item}></BooksCard>)
+                 items.slice(0,3).map(item => <BooksCard key={item._id} item={item}></BooksCard>)
             }
           </div>
+          
           
         </div>
         </div>

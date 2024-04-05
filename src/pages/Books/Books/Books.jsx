@@ -21,6 +21,7 @@ const Books = () => {
 
   return (
     <div className="md:m-20 m-4">
+      <h1 className="text-3xl font-semibold text-center my-10 uppercase">Our Books Category</h1>
       <Tabs
         className="gap-0"
         defaultIndex={tabIndex}

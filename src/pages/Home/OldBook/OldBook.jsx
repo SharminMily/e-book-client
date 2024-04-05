@@ -18,7 +18,7 @@ const OldBook = () => {
    <div className="flex justify-center items-center gap-4">
    <div className="grid lg:grid-cols-3 md:grid-cols-2 gap-6">
         {
-            oldBooks.map((oldBook) => (
+            oldBooks.slice(0, 3).map((oldBook) => (
                 <Card key={oldBook._id}   className="border-none w-80 h-80 flex justify-center items-center">
                 <Image classNames="w-full h-full"
                   alt="Woman listing to music"
